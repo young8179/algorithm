@@ -6,3 +6,4 @@ def num(n):
         print(i, end="")
 
 num(n)
+dfafd
